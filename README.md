@@ -1,6 +1,7 @@
 ### Hi there 👋
 
-![image](https://user-images.githubusercontent.com/82886698/127076833-334c83c8-5e9a-4516-b0a5-11b8d0eb83a7.png)
+![image](https://user-images.githubusercontent.com/82886698/127076898-dea6c0d9-a509-405e-b347-e33ff68a7f59.gif)
+
 
 
 Here are some ideas to get you started:
