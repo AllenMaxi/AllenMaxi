@@ -1,7 +1,5 @@
 ### Hi there 👋
-
-![image](https://user-images.githubusercontent.com/82886698/127076898-dea6c0d9-a509-405e-b347-e33ff68a7f59.gif)
-
+![image](https://user-images.githubusercontent.com/82886698/127077010-d9869e50-5081-4257-8e7f-aede08270525.png)
 
 
 Here are some ideas to get you started:
