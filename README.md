@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+![image](https://user-images.githubusercontent.com/82886698/127076833-334c83c8-5e9a-4516-b0a5-11b8d0eb83a7.png)
+
+
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on Projects on my own
