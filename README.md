@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-
+![gif](https://user-images.githubusercontent.com/82886698/127077899-bafe86b3-0bf6-4001-b449-bdbf0c0e43c4.gif)
 
 Here are some ideas to get you started:
 
