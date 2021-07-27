@@ -14,7 +14,7 @@ I learn quickly since it motivates me a lot to learn technologies both front end
 
 
 🙈About me: I love programming and learning new technologies.
-It allows me to challenge myself day by day creating new projects to practice everything I have learned. 🙉
+It allows me to challenge myself day by day creating new projects to practice everything I have learned. 
 <div align="center"> <h2>My social networks:</h2> </div>
 <div align="center"> <a href="https://www.linkedin.com/in/maximiliano-allende-6786941b5" target="_blank"> <img src="https://user-images.githubusercontent.com/82886698/127078747-8780bc5c-d393-4d3e-8a10-8b2c0703472a.png" alt="linkedin" width="40" height="40"> </a>
 <a href="https://www.instagram.com/maxi_allende97/" target="_blank"> <img src="https://user-images.githubusercontent.com/82886698/127082612-a2c8c148-c5a2-4dbc-8d56-02b1cf8d1df7.png" alt="instagram" width="40" height="40"> </a>
