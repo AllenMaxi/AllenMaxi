@@ -1,4 +1,5 @@
 ### Hi there 👋
+I'm Maximiliano Allende and i'm a front end developer and I am starting to learn back end to develop as a full stack developer
 
 ![gif](https://user-images.githubusercontent.com/82886698/127077899-bafe86b3-0bf6-4001-b449-bdbf0c0e43c4.gif)
 
