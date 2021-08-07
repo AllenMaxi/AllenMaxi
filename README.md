@@ -18,6 +18,16 @@ I learn quickly since it motivates me a lot to learn technologies both front end
 It allows me to challenge myself day by day creating new projects to practice everything I have learned. 
 
 
+💣Crud Song Search and more exercises whit React: https://crud-and-artist-search.netlify.app
+💣React Ecommerce with context: https://context-ecommerce.netlify.app
+💣Surf Project JavaScript: https://surf-project-allende-maxi.netlify.app/
+💣App Barberia JavaScript: https://app-barberia-peluqueria.netlify.app
+💣Festival Musicale Sass, HTML, JS: https://festival-musical-web.netlify.app
+💣Todo List JavaScript: https://todo-listone.netlify.app
+💣Pokedex with pagination Css and JavaScript https://all-pokemon-pokedex.netlify.app
+💣App Countries and Capitals JavaScript: https://around-the-world-api.netlify.app
+💣Coffee blog Css and HTML: https://coffee-blog-2021.netlify.app
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/maximiliano-allende-6786941b5" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/maximiliano-allende-6786941b5" height="30" width="40" /></a>
