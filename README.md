@@ -18,15 +18,15 @@ I learn quickly since it motivates me a lot to learn technologies both front end
 It allows me to challenge myself day by day creating new projects to practice everything I have learned. 
 
 
-💣Crud Song Search and more exercises whit React: https://crud-and-artist-search.netlify.app
-💣React Ecommerce with context: https://context-ecommerce.netlify.app
-💣Surf Project JavaScript: https://surf-project-allende-maxi.netlify.app/
-💣App Barberia JavaScript: https://app-barberia-peluqueria.netlify.app
-💣Festival Musicale Sass, HTML, JS: https://festival-musical-web.netlify.app
-💣Todo List JavaScript: https://todo-listone.netlify.app
-💣Pokedex with pagination Css and JavaScript https://all-pokemon-pokedex.netlify.app
-💣App Countries and Capitals JavaScript: https://around-the-world-api.netlify.app
-💣Coffee blog Css and HTML: https://coffee-blog-2021.netlify.app
+<h4>💣Crud Song Search and more exercises whit React: https://crud-and-artist-search.netlify.app </h4>
+<h4>💣React Ecommerce with context: https://context-ecommerce.netlify.app </h4>
+<h4>💣Surf Project JavaScript: https://surf-project-allende-maxi.netlify.app/ </h4>
+<h4>💣App Barberia JavaScript: https://app-barberia-peluqueria.netlify.app </h4>
+<h4>💣Festival Musicale Sass, HTML, JS: https://festival-musical-web.netlify.app </h4>
+<h4>💣Todo List JavaScript: https://todo-listone.netlify.app </h4>
+<h4>💣Pokedex with pagination Css and JavaScript https://all-pokemon-pokedex.netlify.app </h4>
+<h4>💣App Countries and Capitals JavaScript: https://around-the-world-api.netlify.app </h4>
+<h4>💣Coffee blog Css and HTML: https://coffee-blog-2021.netlify.app </h4>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
