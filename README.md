@@ -1,5 +1,6 @@
 ### Hi there 👋
-<h3>I'm Maximiliano Allende and i am a Front End Developer starting to learn Back End to develop myself as a Full Stack Developer</h3>
+<h3>My name is Maximiliano Allende and i am grateful that you are here</h3>
+<h3>I’m a Front end developer learning Back end to become Full Stack</h3>
 
 ![gif](https://user-images.githubusercontent.com/82886698/127077899-bafe86b3-0bf6-4001-b449-bdbf0c0e43c4.gif)
 
