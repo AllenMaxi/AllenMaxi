@@ -28,6 +28,7 @@ It allows me to challenge myself day by day creating new projects to practice ev
 <h4>💣Pokedex with pagination Css and JavaScript https://all-pokemon-pokedex.netlify.app </h4>
 <h4>💣App Countries and Capitals JavaScript: https://around-the-world-api.netlify.app </h4>
 <h4>💣Coffee blog Css and HTML: https://coffee-blog-2021.netlify.app </h4>
+<h4>💣Form with Firebase/Auth, Context, Private Routes: https://form-firebase-context.netlify.app </h4>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
