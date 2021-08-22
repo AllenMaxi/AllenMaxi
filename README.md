@@ -37,7 +37,10 @@ It allows me to challenge myself day by day creating new projects to practice ev
 </p>
 
 <h3> CoderHouse Certificate </h3>
+  <h4>JavaScript</h4>
 https://www.coderhouse.com/certificados/60d8bc9948ef4500113bda11
+  <h4>React</h4>
+https://www.coderhouse.com/certificados/6121bec7e8196f0011bcfde9?lang=en
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://getbootstrap.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> 
