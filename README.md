@@ -20,18 +20,6 @@ It allows me to challenge myself day by day creating new projects to practice ev
 <h3>My Portfolio:</h3>
 https://maxi-allende-portfolio.netlify.app
 
-<h4>💣Healthy Life Project with React, React Router, Context and Firebase https://react-firebase-context.netlify.app/
-<h4>💣Crud Song Search and more exercises whit React: https://crud-and-artist-search.netlify.app </h4>
-<h4>💣React Ecommerce with context: https://context-ecommerce.netlify.app </h4>
-<h4>💣Surf Project JavaScript: https://surf-project-allende-maxi.netlify.app/ </h4>
-<h4>💣App Barberia JavaScript: https://app-barberia-peluqueria.netlify.app </h4>
-<h4>💣Festival Musicale Sass, HTML, JS: https://festival-musical-web.netlify.app </h4>
-<h4>💣Todo List JavaScript: https://todo-listone.netlify.app </h4>
-<h4>💣Pokedex with pagination Css and JavaScript https://all-pokemon-pokedex.netlify.app </h4>
-<h4>💣App Countries and Capitals JavaScript: https://around-the-world-api.netlify.app </h4>
-<h4>💣Coffee blog Css and HTML: https://coffee-blog-2021.netlify.app </h4>
-<h4>💣Form with Firebase/Auth, Context, Private Routes: https://form-firebase-context.netlify.app </h4>
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/maximiliano-allende-6786941b5" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/maximiliano-allende-6786941b5" height="30" width="40" /></a>
