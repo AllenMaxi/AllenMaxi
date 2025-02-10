@@ -5,7 +5,7 @@
 ![gif](https://user-images.githubusercontent.com/82886698/127077899-bafe86b3-0bf6-4001-b449-bdbf0c0e43c4.gif)
 
 - 🔭 I’m currently working on Projects on my own and studying 
-- 🌱 I’m currently learning back end
+- 🌱 Every day im learning something new
 
 - 👯 I’m looking to collaborate in different projects that challenge me to keep improving.
 I learn quickly since it motivates me a lot to learn technologies both front end and back end.
