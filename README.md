@@ -1,11 +1,8 @@
 ### Hi there 👋
 <h3>My name is Maximiliano Allende and i am grateful that you are here</h3>
-<h3>I’m a Front end developer learning Back end to become Full Stack</h3>
+<h3>I’m a Front end developer with backend and ai automation skills</h3>
 
 ![gif](https://user-images.githubusercontent.com/82886698/127077899-bafe86b3-0bf6-4001-b449-bdbf0c0e43c4.gif)
-
-- 🔭 I’m currently working on Projects on my own and studying 
-- 🌱 Every day im learning something new
 
 - 👯 I’m looking to collaborate in different projects that challenge me to keep improving.
 I learn quickly since it motivates me a lot to learn technologies both front end and back end.
@@ -17,8 +14,6 @@ I learn quickly since it motivates me a lot to learn technologies both front end
 
 🙈About me: I love programming and learning new technologies.
 It allows me to challenge myself day by day creating new projects to practice everything I have learned. 
-<h3>My Portfolio:</h3>
-https://maxi-allende-portfolio.netlify.app
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
